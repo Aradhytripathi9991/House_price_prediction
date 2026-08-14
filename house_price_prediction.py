@@ -10,7 +10,7 @@ def load_model():
     # Load the pipeline saved from the Jupyter notebook
    # Line 11
 # Load the pipeline saved from the Jupyter notebook
-    return joblib.load('/Users/yashtripathi/Desktop/internship_project/project-2/house_price_model.pkl')  # Use relative path
+    return joblib.load('./house_price_model.pkl')  # Use relative path
 model = load_model()
 
 # --- 2. Build the Streamlit UI ---
