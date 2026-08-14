@@ -4,6 +4,8 @@ House Price Prediction using Machine Learning and Streamlit An end-to-end machin
 
 # 🏡 House Price Prediction App
 
+[streamlit][https://housepriceprediction03.streamlit.app/]
+
 An end-to-end Machine Learning project that predicts the selling price of a house based on various property features. The project consists of a Jupyter Notebook for model training and a Streamlit web application for interactive predictions.
 
 ## 🌟 Overview
